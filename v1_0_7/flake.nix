@@ -11,7 +11,6 @@
   inputs.src-dimscord-v1_0_7.ref   = "refs/tags/v1.0.7";
   inputs.src-dimscord-v1_0_7.owner = "krisppurg";
   inputs.src-dimscord-v1_0_7.repo  = "dimscord";
-  inputs.src-dimscord-v1_0_7.dir   = "";
   inputs.src-dimscord-v1_0_7.type  = "github";
   
   inputs."zip".owner = "nim-nix-pkgs";

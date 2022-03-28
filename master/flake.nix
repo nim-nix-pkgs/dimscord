@@ -11,7 +11,6 @@
   inputs.src-dimscord-master.ref   = "refs/heads/master";
   inputs.src-dimscord-master.owner = "krisppurg";
   inputs.src-dimscord-master.repo  = "dimscord";
-  inputs.src-dimscord-master.dir   = "";
   inputs.src-dimscord-master.type  = "github";
   
   inputs."zippy".owner = "nim-nix-pkgs";
